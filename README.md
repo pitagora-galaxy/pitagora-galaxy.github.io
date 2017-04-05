@@ -1,3 +1,11 @@
+![pitagora-galaxy](images/pitagora-logo.png)
+
+#### Quick Links
+
+- [Events]()
+- [Documents]()
+- [VM]()
+
 ## About pitagora-galaxy
 
 ピタゴラ・ギャラクシーはGalaxyと情報サイトおよび仮想環境を組み合わせることで、データ処理から高次解析までのフローを効率的に共有し、データ解析の再現性を高める仕組みを提案するプロジェクトです。今後さらに活用の幅が広がるNGSデータの解析のため、オープンソースのプラットフォームを利用した知識共有の促進を目指しています。
@@ -21,24 +29,24 @@ Galaxyの目指す再利用性や再現性の向上のためには次の2つの�
 
 全ての環境で同じワークフローを使用でき、解析時の環境を再構築できるため、データ解析にかける手間を省くと同時に解析の再現性を担保することができます。さらに、将来的にはデスクトップ・アプリケーションのプラットフォームであるGaruda Desktopと連携することで、Galaxy上で実行できないワークフローも共有することを予定しています。
 
-## News and Events
+## Contents
 
-### Next Meetup
+### Pitagora News
 
 次回のミートアップは2017年5月10日(水) @ 東大先端科学技術研究センター (駒場) です。過去のイベントは[こちら]()。
 
-## Virtual Appliances
+### Virtual Appliances
 
 - [Test site]()
 - [Download Virtual Machine]()
 - [Launch on Cloud]()
 
-## Documentation
+### Documentation
 
 - [Guide for Beginners]()
 - [Workflows]()
 - [Admin]()
 
-## Contact
+### Contact
 
 お問い合わせは [admin@pitagota-galaxy.org](mailto:admin@pitagota-galaxy.org) までどうぞ。
