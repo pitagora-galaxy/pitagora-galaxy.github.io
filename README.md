@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## About pitagora-galaxy
 
-You can use the [editor on GitHub](https://github.com/pitagora-galaxy/pitagora-galaxy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ピタゴラ・ギャラクシーはGalaxyと情報サイトおよび仮想環境を組み合わせることで、データ処理から高次解析までのフローを効率的に共有し、データ解析の再現性を高める仕組みを提案するプロジェクトです。今後さらに活用の幅が広がるNGSデータの解析のため、オープンソースのプラットフォームを利用した知識共有の促進を目指しています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Galaxy Project
 
-### Markdown
+Galaxyとは生物医学研究のデータ解析ために無償で利用できるWebベースの統合データ解析環境です。公開されているツールを組み合わせて解析パイプラインの構築し、パイプラインの再実行や結果の簡単に共有できるため、NGSデータの解析システムとして広く利用されています。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Objective
 
-```markdown
-Syntax highlighted code block
+Galaxyの目指す再利用性や再現性の向上のためには次の2つの課題があると考えています。
 
-# Header 1
-## Header 2
-### Header 3
+- 各研究機関がGalaxy上で利用しているツールやワークフローの情報があまり共有されていないこと
+- Galaxy環境の再構築が難しいため、過去に実行されたワークフローの再現性が失われてしまうこと
 
-- Bulleted
-- List
+上記の課題の解決のため、私達は情報共有のためのウェブ・サイトを開設すると共に、Galaxyとその上で動作するツールやワークフローを設定済みの仮想環境を作成しています。以下の3つの方法ですぐに解析ワークフローを実行できます。
 
-1. Numbered
-2. List
+- 自分のPCやサーバーで使える仮想環境
+- 簡単な解析ができる公開テスト用サイト
+- 自分のクラウドで起動できるイメージ
 
-**Bold** and _Italic_ and `Code` text
+全ての環境で同じワークフローを使用でき、解析時の環境を再構築できるため、データ解析にかける手間を省くと同時に解析の再現性を担保することができます。さらに、将来的にはデスクトップ・アプリケーションのプラットフォームであるGaruda Desktopと連携することで、Galaxy上で実行できないワークフローも共有することを予定しています。
 
-[Link](url) and ![Image](src)
-```
+## News and Events
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Next Meetup
 
-### Jekyll Themes
+次回のミートアップは2017年5月10日(水) @ 東大先端科学技術研究センター (駒場) です。過去のイベントは[こちら]()。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pitagora-galaxy/pitagora-galaxy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Virtual Appliances
 
-### Support or Contact
+- [Test site]()
+- [Download Virtual Machine]()
+- [Launch on Cloud]()
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Documentation
+
+- [Guide for Beginners]()
+- [Workflows]()
+- [Admin]()
+
+## Contact
+
+お問い合わせは [admin@pitagota-galaxy.org](mailto:admin@pitagota-galaxy.org) までどうぞ。
